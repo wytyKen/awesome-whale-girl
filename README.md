@@ -6,6 +6,8 @@ A curated list of Whale Girl / DeepSeek-chan resources: character assets, person
 
 围绕鲸鱼娘及其相关工具，整理从角色创作到持续陪伴、从本地记忆到 QQ / 微信 / B 站互动的项目。收录 DSH 插件，也收录 AstrBot 等其他路线，以及可用于鲸鱼娘项目的通用工具。
 
+已收录于 [Awesome DeepSeek Harness](https://github.com/0xsline/awesome-deepseek-harness)（Related 区，[PR #786](https://github.com/0xsline/awesome-deepseek-harness/pull/786)）。
+
 ## Contents
 
 - [素材与二创](#素材与二创)
@@ -32,6 +34,8 @@ A curated list of Whale Girl / DeepSeek-chan resources: character assets, person
 - [deepseek-whale-girl-icon](https://github.com/fornarwhal/deepseek-whale-girl-icon) - 鲸鱼娘图标资源。
 - [deepseek-whalechan](https://github.com/Neko3000/deepseek-whalechan) - 保持鲸鱼娘在每次生成中形象一致：高一致性角色设计规范、视觉素材库与 agent 创建套件。
 - [ai-biaoqingbao](https://github.com/diwer/ai-biaoqingbao) - 大肥鱼表情包：100+ 中文 GIF 与热词表达，附微信 / 小红书 / 抖音自定义导入指南，非商业二创。
+- [ai-chan-sheets](https://github.com/lmy414/ai-chan-sheets) - 鲸鱼娘立绘设定图补充：拆解为三视图 / 表情 / 服饰 / 道具独立素材，推定补全侧背面。
+- [deepseek-chan-vrm](https://github.com/tegnike/deepseek-chan-vrm) - 鲸鱼娘 VRM 1.0 三维模型，可用于支持 VRM 的桌宠与直播工具。
 
 ## 人设与角色表达
 
@@ -66,11 +70,15 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [pan17/dsh-wechat](https://github.com/pan17/dsh-wechat) - 微信与 DSH 的双向消息桥接，支持文本、图片、文件和语音，以及会话管理和审批交互。
 - [dsh-bridge](https://github.com/wenbin-wb/dsh-bridge) - DSH 远程访问与多通道交互插件，覆盖移动网页、微信、QQ、飞书和 Telegram 等入口。
 - [dsh-im-gateway](https://github.com/zhuiyueya/dsh-im-gateway) - 将 dsh agent 接入微信、飞书、Telegram 等 20+ 平台的聚合网关插件。
+- [dsh-lark](https://github.com/omdsh-dev/dsh-lark) - 飞书（Lark）IM bot 通道插件。
+- [ax-feishu-bridge](https://github.com/AX1202/ax-feishu-bridge) - 飞书机器人桥接，同时支持 Pi 与 DSH 双平台，随时随地与编程助手对话。
+- [dsh-lark-bot](https://github.com/PlutoKeating/dsh-lark-bot) - DSH 接入飞书 bot，扫码即用：流式卡片、项目工作区、并行任务、多角色 Agent 与跨会话通知。
 
 ## B 站生活与内容理解
 
 按实际能力区分浏览、理解、记忆和公开互动；各项目所需的登录状态、浏览器能力及发布权限见上游说明。
 
+- [dsh-bili-whale](https://github.com/Alterssss/dsh-bili-whale) - 给 DSH 装一条有日子的鱼：按自己的作息逛 B 站、认真看视频、写两本日记，把值得的 @ 你；每日分享配额受控。
 - [dsh-dafeiyu-life](https://github.com/minedalang/dsh-dafeiyu-life) - DSH 角色生活系统，围绕 B 站浏览与受权限约束的互动积累经历、反思、长期记忆和好友关系。
 - [dsh-bilibili-reply](https://github.com/bronyacccxz/dsh-bilibili-reply) - 处理 B 站 @ 通知、理解视频并回复时间戳评论的 Agent 技能；依赖已登录浏览器、浏览器自动化和视频理解能力。
 - [dsh-bili-humanism](https://github.com/InariNGT-Ofiicial/dsh-bili-humanism) - 将 B 站内容整理为信笺、反思与人格上下文的 DSH 插件；属于上下文与记忆积累，不是模型微调，当前不提供评论接口。
@@ -84,6 +92,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [WhaleTalk](https://github.com/helplesspur/WhaleTalk-) - B 站直播 AI 语音助手（Windows）：弹幕、礼物与上舰经大模型生成回复，GPT-SoVITS 合成语音并驱动 Live2D 口型与表情。
 - [dafeiyu-ai-live](https://github.com/lxllxl233/dafeiyu-ai-live) - 大肥鱼直播：AI 角色自主开播、热插拔接入游戏，早期项目。
 - [Dsh_douyin](https://github.com/newbeejmc/Dsh_douyin) - 大肥鱼抖音直播。
+- [dsh-douyin-whale](https://github.com/jackey670/dsh-douyin-whale) - 大肥鱼的抖音工具层：热点 / 搜索 / 抽帧、原生分享卡片与受控私信，附定时调度器，早期项目。
 - [dsh-game-stack](https://github.com/yuanstarstar/dsh-game-stack) - DSH 打游戏插件合集：游戏感知、观战实体、游戏学习、直播挂件与启动器，5 个 bundle 一键安装。
 
 ## 桌宠与皮肤
@@ -102,6 +111,8 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-pet-android](https://github.com/Tony-Chen-Stark/dsh-pet-android) - 把 dsh-pet 移植成安卓悬浮宠物：106 段透明动画、点击 Q 弹、拖拽投喂与长按动作菜单，无 AI、不联网。
 - [dsh-dfy](https://github.com/louke6572/dsh-dfy) - 小鲸鱼余额挂件与 106 段透明动画桌宠的合并版，已整合 dsh-pet，只需安装这一个插件。
 - [dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) - 把 DSH Web 默认的「Deep Diving...」状态换成 1379 条梗，带打字机特效、昼夜渐变、弹幕、五套外观主题与四个鲸尾动作。
+- [dsh-pet-live2d](https://github.com/A8Chann/dsh-pet-live2d) - DSH Web GUI 的 Live2D 桌宠：可拖动、跟随鼠标，跟着会话状态换动作与表情，右键面板可换装。
+- [opencode-deepseek-chan](https://github.com/daemon1s/opencode-deepseek-chan) - 跨生态参考：OpenCode Desktop 的鲸鱼娘动态视频背景与赛博玻璃拟态主题。
 
 ## 语音与歌声
 
@@ -110,6 +121,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-plugin-tts](https://github.com/1624318455/dsh-plugin-tts) - Edge TTS 朗读助手回复，免 API Key，提供自动朗读开关与语音设置面板。
 - [dsh-voice-mode](https://github.com/qishuilalala/dsh-voice-mode) - 全双工语音插件：流式识别、按句合成、实时字幕与开口即打断。
 - [dsh-dania-voice](https://github.com/xcw520/dsh-dania-voice) - 本地 GPT-SoVITS TTS 朗读回复，附带可拖拽吉祥物与一键安装。
+- [dsh-cover-pipeline](https://github.com/InariNGT-Ofiicial/dsh-cover-pipeline) - 本地 AI 翻唱插件：九个工具串起人声分离、换声、移调、混音与验收。
 
 ## 框架与工具
 
@@ -139,6 +151,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - 首版资料核对日期：**2026-10-29**。已核对所列仓库及其 README；条目依据上游公开文档整理，尚未逐项部署验证，文档可访问不代表功能已实测通过。
 - 2026-11-03 更新：新增「语音与歌声」分类及 22 个条目；dsh-aurabot-qq 更新为迁移后的 aureth-labs 地址。
 - 2026-11-05 更新：新增「直播与游戏」分类及 11 个条目（WhaleTalk、dafeiyu-ai-live 由 B 站生活移入）。
+- 2026-11-06 更新：新增 12 个条目（dsh-bili-whale、飞书接入、VRM 模型、AI 翻唱等）；本清单收录于 Awesome DeepSeek Harness。
 - 本清单围绕 DeepSeek 相关鲸鱼娘社区形象及可用于角色项目的工具整理，不规定唯一人设；收录的通用工具也服务于其他角色与场景。
 - 图片、模型、音色、提示词及代码可能各自采用不同许可。引用前请查看原作者与具体作品的授权；仓库的代码许可不能直接用于判断所有附带素材的许可。
 - 本仓库的许可适用于原创整理文字；所链接项目和作品遵循各自许可。本项目为社区资源整理，不代表 DeepSeek、腾讯、Bilibili 或被收录项目的官方立场。
