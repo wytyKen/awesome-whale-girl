@@ -31,7 +31,7 @@ A curated list of Whale Girl / DeepSeek-chan resources: character assets, person
 - [deepseek-chan-emotes](https://github.com/BrickAZ/deepseek-chan-emotes) - 基于社区角色制作的 GIF 表情包，提供预览、下载及角色和工具来源说明。
 - [dsh-nekowhale-stickers](https://github.com/Loping151/dsh-nekowhale-stickers) - 大肥鱼等角色的表情包知识库，支持使用场景检索、本地文字模板，以及 DSH、MCP 和其他聊天工具接入。
 - [gen-ai-pose-image](https://github.com/wzc520pyfm/gen-ai-pose-image) - 从姿势线稿与衣装为社区鲸鱼娘生成图像，可调整姿势与表情，也可装进 DSH。
-- [deepseek-whale-girl-icon](https://github.com/fornarwhal/deepseek-whale-girl-icon) - 鲸鱼娘图标资源。
+- [deepseek-whale-girl-icon](https://github.com/fornarwhal/deepseek-whale-girl-icon) - DSH 快捷方式鲸鱼娘图标（多尺寸 .ico），社区接力制作；图片来源作者未确认，授权待核实。
 - [deepseek-whalechan](https://github.com/Neko3000/deepseek-whalechan) - 保持鲸鱼娘在每次生成中形象一致：高一致性角色设计规范、视觉素材库与 agent 创建套件。
 - [ai-biaoqingbao](https://github.com/diwer/ai-biaoqingbao) - 大肥鱼表情包：100+ 中文 GIF 与热词表达，附微信 / 小红书 / 抖音自定义导入指南，非商业二创。
 - [ai-chan-sheets](https://github.com/lmy414/ai-chan-sheets) - 鲸鱼娘立绘设定图补充：拆解为三视图 / 表情 / 服饰 / 道具独立素材，推定补全侧背面。
@@ -111,7 +111,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dafeiyu-pet](https://github.com/1190fasheqi/dafeiyu-pet) - 鲸鱼娘透明桌面宠物，支持三视图行走、拖拽、喂食、互动与思维链展示。
 - [dsh-damage-pulse](https://github.com/wssfk12138/dsh-damage-pulse) - Token 余额监控插件：鲸鱼娘待机、扣费与复活动画，含峰值计费与会话费用统计。
 - [big-blue-fish-desktop-pet](https://github.com/Bai-Cute/big-blue-fish-desktop-pet) - 蓝色大肥鱼 Windows AI 桌宠，内置 4B 本地模型，结合天气、科技新闻与当前应用以文字气泡陪伴。
-- [WhaleMaid-for-Codex](https://github.com/EussGaler/WhaleMaid-for-Codex) - 跨生态参考：Codex 环境的 Live2D 蓝色大肥鱼桌宠，自动呼吸、视线跟随并显示宿主工作状态。
+- [WhaleMaid-for-Codex](https://github.com/EussGaler/WhaleMaid-for-Codex) - 跨生态参考：Codex 环境的 Live2D 蓝色大肥鱼桌宠，自动呼吸、视线跟随并显示宿主工作状态；代码采用非商业许可，模型素材需另行获取。
 - [dsh-pet-android](https://github.com/Tony-Chen-Stark/dsh-pet-android) - 把 dsh-pet 移植成安卓悬浮宠物：106 段透明动画、点击 Q 弹、拖拽投喂与长按动作菜单，无 AI、不联网。
 - [dsh-dfy](https://github.com/louke6572/dsh-dfy) - 小鲸鱼余额挂件与 106 段透明动画桌宠的合并版，已整合 dsh-pet，只需安装这一个插件。
 - [dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) - 把 DSH Web 默认的「Deep Diving...」状态换成 1379 条梗，带打字机特效、昼夜渐变、弹幕、五套外观主题与四个鲸尾动作。
@@ -157,6 +157,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - 2026-11-05 更新：新增「直播与游戏」分类及 11 个条目（WhaleTalk、dafeiyu-ai-live 由 B 站生活移入）。
 - 2026-11-06 更新：新增 12 个条目（dsh-bili-whale、飞书接入、VRM 模型、AI 翻唱等）；本清单收录于 Awesome DeepSeek Harness。
 - 2026-11-06 更新（二）：收录范围放宽至任意合法平台，「B 站生活与内容理解」更名为「平台生活与内容理解」，新增贴吧、小红书、Telegram 方向 4 个条目。
+- 2026-11-06 质量审查：对 19 个低星与早期条目做只读代码核验，18 个通过；deepseek-whale-girl-icon 按资产类保留并标注授权待核实。
 - 本清单围绕 DeepSeek 相关鲸鱼娘社区形象及可用于角色项目的工具整理，不规定唯一人设；收录的通用工具也服务于其他角色与场景。
 - 图片、模型、音色、提示词及代码可能各自采用不同许可。引用前请查看原作者与具体作品的授权；仓库的代码许可不能直接用于判断所有附带素材的许可。
 - 本仓库的许可适用于原创整理文字；所链接项目和作品遵循各自许可。本项目为社区资源整理，不代表 DeepSeek、腾讯、Bilibili 或被收录项目的官方立场。
