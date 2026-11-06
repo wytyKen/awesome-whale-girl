@@ -148,7 +148,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 
 ## Contributing
 
-欢迎通过 Issue 推荐资源，或提交 Pull Request 补充条目、修正描述和更新失效链接。添加前请阅读 [贡献指南](CONTRIBUTING.md)。
+欢迎通过 Issue 推荐资源，或提交 Pull Request 补充条目、修正描述和更新失效链接。添加前请阅读 [贡献指南](CONTRIBUTING.md)；维护者的收录与审查流程见 [维护手册](MAINTAINERS.md)。
 
 ## Footnotes
 
