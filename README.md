@@ -4,7 +4,7 @@
 
 A curated list of Whale Girl / DeepSeek-chan resources: character assets, personas, memory, social integrations, and digital life.
 
-围绕鲸鱼娘及其相关工具，整理从角色创作到持续陪伴、从本地记忆到 QQ / 微信 / B 站互动的项目。收录 DSH 插件，也收录 AstrBot 等其他路线，以及可用于鲸鱼娘项目的通用工具。
+围绕鲸鱼娘及其相关工具，整理从角色创作到持续陪伴、从本地记忆到各平台社交互动的项目。收录 DSH 插件，也收录 AstrBot 等其他路线，以及可用于鲸鱼娘项目的通用工具。
 
 已收录于 [Awesome DeepSeek Harness](https://github.com/0xsline/awesome-deepseek-harness)（Related 区，[PR #786](https://github.com/0xsline/awesome-deepseek-harness/pull/786)）。
 
@@ -15,7 +15,7 @@ A curated list of Whale Girl / DeepSeek-chan resources: character assets, person
 - [记忆与成长](#记忆与成长)
 - [QQ 生活](#qq-生活)
 - [微信与多平台接入](#微信与多平台接入)
-- [B 站生活与内容理解](#b-站生活与内容理解)
+- [平台生活与内容理解](#平台生活与内容理解)
 - [直播与游戏](#直播与游戏)
 - [桌宠与皮肤](#桌宠与皮肤)
 - [语音与歌声](#语音与歌声)
@@ -73,8 +73,10 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-lark](https://github.com/omdsh-dev/dsh-lark) - 飞书（Lark）IM bot 通道插件。
 - [ax-feishu-bridge](https://github.com/AX1202/ax-feishu-bridge) - 飞书机器人桥接，同时支持 Pi 与 DSH 双平台，随时随地与编程助手对话。
 - [dsh-lark-bot](https://github.com/PlutoKeating/dsh-lark-bot) - DSH 接入飞书 bot，扫码即用：流式卡片、项目工作区、并行任务、多角色 Agent 与跨会话通知。
+- [dsh-notifier](https://github.com/THEWOLFWALKER/dsh-notifier) - DSH 通知与远程控制面板：28 个出站通道、6 个入站控制，原生 UI 热更新，零运行时依赖。
+- [dsh-telegram-channel](https://github.com/hi-wenw/dsh-telegram-channel) - Telegram 移动端远程通道：绑定实时 Web 会话，Codex 风格。
 
-## B 站生活与内容理解
+## 平台生活与内容理解
 
 按实际能力区分浏览、理解、记忆和公开互动；各项目所需的登录状态、浏览器能力及发布权限见上游说明。
 
@@ -83,6 +85,8 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-bilibili-reply](https://github.com/bronyacccxz/dsh-bilibili-reply) - 处理 B 站 @ 通知、理解视频并回复时间戳评论的 Agent 技能；依赖已登录浏览器、浏览器自动化和视频理解能力。
 - [dsh-bili-humanism](https://github.com/InariNGT-Ofiicial/dsh-bili-humanism) - 将 B 站内容整理为信笺、反思与人格上下文的 DSH 插件；属于上下文与记忆积累，不是模型微调，当前不提供评论接口。
 - [OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) - 本地运行的跨平台内容发现与个性化推荐 Agent，支持 B 站等来源及 DSH 接入，可作为角色发现内容的工具参考。
+- [dsh-tieba-dive](https://github.com/Nekomeow114/dsh-tieba-dive) - 百度贴吧插件：自动读帖、生成日报与顺手点赞，回帖可选并带每轮 / 每日 / 间隔 / 去重四道限制。
+- [dsh-xhs-whale](https://github.com/Zhouzhounb520/dsh-xhs-whale) - 本地小红书阅读助手：图文精读、视频阅读、草稿审核与小鲸鱼互动，可 @ 主人。
 
 ## 直播与游戏
 
@@ -152,6 +156,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - 2026-11-03 更新：新增「语音与歌声」分类及 22 个条目；dsh-aurabot-qq 更新为迁移后的 aureth-labs 地址。
 - 2026-11-05 更新：新增「直播与游戏」分类及 11 个条目（WhaleTalk、dafeiyu-ai-live 由 B 站生活移入）。
 - 2026-11-06 更新：新增 12 个条目（dsh-bili-whale、飞书接入、VRM 模型、AI 翻唱等）；本清单收录于 Awesome DeepSeek Harness。
+- 2026-11-06 更新（二）：收录范围放宽至任意合法平台，「B 站生活与内容理解」更名为「平台生活与内容理解」，新增贴吧、小红书、Telegram 方向 4 个条目。
 - 本清单围绕 DeepSeek 相关鲸鱼娘社区形象及可用于角色项目的工具整理，不规定唯一人设；收录的通用工具也服务于其他角色与场景。
 - 图片、模型、音色、提示词及代码可能各自采用不同许可。引用前请查看原作者与具体作品的授权；仓库的代码许可不能直接用于判断所有附带素材的许可。
 - 本仓库的许可适用于原创整理文字；所链接项目和作品遵循各自许可。本项目为社区资源整理，不代表 DeepSeek、腾讯、Bilibili 或被收录项目的官方立场。
