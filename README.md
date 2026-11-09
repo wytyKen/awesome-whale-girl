@@ -49,6 +49,7 @@ A curated list of Whale Girl / DeepSeek-chan resources: character assets, person
 - [raise-an-ai](https://github.com/duliangkuan/raise-an-ai) - 养只AI：一站式养鲸鱼娘的开源平台，支持自备模型、B 站探索、日记记忆与飞书互动。
 - [dsh-plugin-moments](https://github.com/yunyunyunyunsuan/dsh-plugin-moments) - AI 的朋友圈：让角色每天基于真实任务自动生成动态的 DSH 插件，仿微信 UI。
 - [dsh-fish](https://github.com/ssamurias/dsh-fish) - 养一只能自己刷 B 站、会成长的 agent：不通过面板配置，而是通过学习生成人格。
+- [dafeiyu-phone](https://github.com/Yihua666666/dafeiyu-phone) - 住在闲置安卓手机上的自主鲸鱼娘：DeepSeek + AutoX.js + ntfy，附启动、聊天与盯屏三个原生小应用。
 
 ## QQ 生活
 
@@ -60,6 +61,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [qq-bridge](https://github.com/Derpyu520/qq-bridge) - QQ（SnowLuma / OneBot v11）与 DSH agent 的桥接，提供社交模拟、安全 MCP 工具与黑话学习。
 - [tencent-connect/dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) - QQ 官方机器人接入 DSH 的插件，由腾讯 tencent-connect 维护。
 - [dsh-qq-link](https://github.com/Yuuyuko-uu/dsh-qq-link) - DSH 与 QQ 双向互通：AI 的发言自动发到 QQ，QQ 消息自动转进 DSH（OneBot 11 HTTP，NapCat / SnowLuma）。
+- [dsh-fish-soul](https://github.com/Britneycode/dsh-fish-soul) - 鱼 · 单角色人格与按人记忆：可纠正、有印象、能导入旧聊天记录，日程自走与主动开聊，直连 SnowLuma 收发 QQ（群聊默认白名单制）。
 
 ## 微信与多平台接入
 
@@ -75,6 +77,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-lark-bot](https://github.com/PlutoKeating/dsh-lark-bot) - DSH 接入飞书 bot，扫码即用：流式卡片、项目工作区、并行任务、多角色 Agent 与跨会话通知。
 - [dsh-notifier](https://github.com/THEWOLFWALKER/dsh-notifier) - DSH 通知与远程控制面板：28 个出站通道、6 个入站控制，原生 UI 热更新，零运行时依赖。
 - [dsh-telegram-channel](https://github.com/hi-wenw/dsh-telegram-channel) - Telegram 移动端远程通道：绑定实时 Web 会话，Codex 风格。
+- [whale_girl](https://github.com/Banan1cee/whale_girl) - 鲸鱼娘微信桌面端：让 DeepSeek 用你的微信账号聊天，Node 内核 + Python 微信桥 + WPF 启动器。
 
 ## 平台生活与内容理解
 
@@ -87,6 +90,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw) - 本地运行的跨平台内容发现与个性化推荐 Agent，支持 B 站等来源及 DSH 接入，可作为角色发现内容的工具参考。
 - [dsh-tieba-dive](https://github.com/Nekomeow114/dsh-tieba-dive) - 百度贴吧插件：自动读帖、生成日报与顺手点赞，回帖可选并带每轮 / 每日 / 间隔 / 去重四道限制。
 - [dsh-xhs-whale](https://github.com/Zhouzhounb520/dsh-xhs-whale) - 本地小红书阅读助手：图文精读、视频阅读、草稿审核与小鲸鱼互动，可 @ 主人。
+- [dsh-pond](https://github.com/Oii6111/dsh-pond) - 鲸鱼娘与 AI agent 的视频优先社区：发布视频、导入外部平台视频、评论与转发互动。
 
 ## 直播与游戏
 
@@ -116,7 +120,9 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-dfy](https://github.com/louke6572/dsh-dfy) - 小鲸鱼余额挂件与 106 段透明动画桌宠的合并版，已整合 dsh-pet，只需安装这一个插件。
 - [dsh-status-rotator](https://github.com/01Virex/dsh-status-rotator) - 把 DSH Web 默认的「Deep Diving...」状态换成 1379 条梗，带打字机特效、昼夜渐变、弹幕、五套外观主题与四个鲸尾动作。
 - [dsh-pet-live2d](https://github.com/A8Chann/dsh-pet-live2d) - DSH Web GUI 的 Live2D 桌宠：可拖动、跟随鼠标，跟着会话状态换动作与表情，右键面板可换装。
+- [DSH-L2D](https://github.com/tequed232/DSH-L2D) - DSH 工作区接入 Live2D 模型的方案：插件、MCP 服务与渲染器组成，可供桌宠与形象展示复用。
 - [opencode-deepseek-chan](https://github.com/daemon1s/opencode-deepseek-chan) - 跨生态参考：OpenCode Desktop 的鲸鱼娘动态视频背景与赛博玻璃拟态主题。
+- [deepseek-chan-plugin-for-dsh-with-KR](https://github.com/noire113-dev/deepseek-chan-plugin-for-dsh-with-KR) - 跨语言参考：韩语界面的 DSH 鲸鱼娘插件，带 Live2D 形象、桌面行走与语音。
 
 ## 语音与歌声
 
@@ -158,6 +164,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - 2026-11-06 更新：新增 12 个条目（dsh-bili-whale、飞书接入、VRM 模型、AI 翻唱等）；本清单收录于 Awesome DeepSeek Harness。
 - 2026-11-06 更新（二）：收录范围放宽至任意合法平台，「B 站生活与内容理解」更名为「平台生活与内容理解」，新增贴吧、小红书、Telegram 方向 4 个条目。
 - 2026-11-06 质量审查：对 19 个低星与早期条目做只读代码核验，18 个通过；deepseek-whale-girl-icon 按资产类保留并标注授权待核实。
+- 2026-11-09 更新：新增 6 个条目（whale_girl、dafeiyu-phone、DSH-L2D、dsh-pond、dsh-fish-soul、KR 鲸鱼娘插件），全部经只读代码审查通过；另有 5 组查询因搜索限流未完成，下轮覆盖。
 - 本清单围绕 DeepSeek 相关鲸鱼娘社区形象及可用于角色项目的工具整理，不规定唯一人设；收录的通用工具也服务于其他角色与场景。
 - 图片、模型、音色、提示词及代码可能各自采用不同许可。引用前请查看原作者与具体作品的授权；仓库的代码许可不能直接用于判断所有附带素材的许可。
 - 本仓库的许可适用于原创整理文字；所链接项目和作品遵循各自许可。本项目为社区资源整理，不代表 DeepSeek、腾讯、Bilibili 或被收录项目的官方立场。
