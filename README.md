@@ -36,6 +36,7 @@ A curated list of Whale Girl / DeepSeek-chan resources: character assets, person
 - [ai-biaoqingbao](https://github.com/diwer/ai-biaoqingbao) - 大肥鱼表情包：100+ 中文 GIF 与热词表达，附微信 / 小红书 / 抖音自定义导入指南，非商业二创。
 - [ai-chan-sheets](https://github.com/lmy414/ai-chan-sheets) - 鲸鱼娘立绘设定图补充：拆解为三视图 / 表情 / 服饰 / 道具独立素材，推定补全侧背面。
 - [deepseek-chan-vrm](https://github.com/tegnike/deepseek-chan-vrm) - 鲸鱼娘 VRM 1.0 三维模型，可用于支持 VRM 的桌宠与直播工具。
+- [blue-fish-archive](https://github.com/EDMOK/blue-fish-archive) - 蓝色大肥鱼档案馆：290 张原图与 64 张立绘的开放档案，附静态站点与 CC BY-NC-SA 授权说明。
 
 ## 人设与角色表达
 
@@ -78,6 +79,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-notifier](https://github.com/THEWOLFWALKER/dsh-notifier) - DSH 通知与远程控制面板：28 个出站通道、6 个入站控制，原生 UI 热更新，零运行时依赖。
 - [dsh-telegram-channel](https://github.com/hi-wenw/dsh-telegram-channel) - Telegram 移动端远程通道：绑定实时 Web 会话，Codex 风格。
 - [whale_girl](https://github.com/Banan1cee/whale_girl) - 鲸鱼娘微信桌面端：让 DeepSeek 用你的微信账号聊天，Node 内核 + Python 微信桥 + WPF 启动器。
+- [dsh-deeppilot](https://github.com/Mars-Sea/dsh-deeppilot) - 原生 iPhone 伴侣客户端：会话、审批、提问、通知与安全远程访问。
 
 ## 平台生活与内容理解
 
@@ -91,6 +93,8 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-tieba-dive](https://github.com/Nekomeow114/dsh-tieba-dive) - 百度贴吧插件：自动读帖、生成日报与顺手点赞，回帖可选并带每轮 / 每日 / 间隔 / 去重四道限制。
 - [dsh-xhs-whale](https://github.com/Zhouzhounb520/dsh-xhs-whale) - 本地小红书阅读助手：图文精读、视频阅读、草稿审核与小鲸鱼互动，可 @ 主人。
 - [dsh-pond](https://github.com/Oii6111/dsh-pond) - 鲸鱼娘与 AI agent 的视频优先社区：发布视频、导入外部平台视频、评论与转发互动。
+- [dsh-watch-together](https://github.com/SAOS-3624/dsh-watch-together) - 陪看：和智能体一起看视频——跟随真实播放进度传递分镜画面与弹幕，悬浮窗出声互动。
+- [dsh-wewrite](https://github.com/jerryjiao/dsh-wewrite) - 微信公众号 AI 写作插件：一条命令跑完选题、写作、质量门槛、排版、配图到草稿预览，支持定时。
 
 ## 直播与游戏
 
@@ -140,6 +144,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [deepseek-qqbot](https://github.com/CikeSeven/deepseek-qqbot) - 基于 OneBot 兼容网关与 DeepSeek API 的 QQ 聊天机器人，可作为通用消息接入实现参考。
 - [dsh-market](https://github.com/2BingLing/dsh-market) - 社区 DSH 插件检索与发现项目，提供网页版和 DSH 插件两种入口。
 - [Blue-Whale-Harness](https://github.com/leenkcool/Blue-Whale-Harness) - DSH 插件总目录：1958 个仓库 / 1819 个真插件（Skills · MCP · Tools · UI · Orchestration），中英文检索。
+- [MyDearFish](https://github.com/zxr121/MyDearFish) - 大肥鱼定制发行版：DSH 上游源码加六个配套插件（B 站子代理、心情、心智、QQ 桥、主动开口、TTS 桥），根 README 仍为上游原文。
 
 ## 生态观察
 
@@ -165,6 +170,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - 2026-11-06 更新（二）：收录范围放宽至任意合法平台，「B 站生活与内容理解」更名为「平台生活与内容理解」，新增贴吧、小红书、Telegram 方向 4 个条目。
 - 2026-11-06 质量审查：对 19 个低星与早期条目做只读代码核验，18 个通过；deepseek-whale-girl-icon 按资产类保留并标注授权待核实。
 - 2026-11-09 更新：新增 6 个条目（whale_girl、dafeiyu-phone、DSH-L2D、dsh-pond、dsh-fish-soul、KR 鲸鱼娘插件），全部经只读代码审查通过；另有 5 组查询因搜索限流未完成，下轮覆盖。
+- 2026-11-11 更新：补齐上轮限流的 5 组查询，新增 5 个条目（blue-fish-archive、MyDearFish、陪看、iPhone 伴侣、公众号写作），全部经只读代码审查通过。
 - 本清单围绕 DeepSeek 相关鲸鱼娘社区形象及可用于角色项目的工具整理，不规定唯一人设；收录的通用工具也服务于其他角色与场景。
 - 图片、模型、音色、提示词及代码可能各自采用不同许可。引用前请查看原作者与具体作品的授权；仓库的代码许可不能直接用于判断所有附带素材的许可。
 - 本仓库的许可适用于原创整理文字；所链接项目和作品遵循各自许可。本项目为社区资源整理，不代表 DeepSeek、腾讯、Bilibili 或被收录项目的官方立场。
