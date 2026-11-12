@@ -37,12 +37,15 @@ A curated list of Whale Girl / DeepSeek-chan resources: character assets, person
 - [ai-chan-sheets](https://github.com/lmy414/ai-chan-sheets) - 鲸鱼娘立绘设定图补充：拆解为三视图 / 表情 / 服饰 / 道具独立素材，推定补全侧背面。
 - [deepseek-chan-vrm](https://github.com/tegnike/deepseek-chan-vrm) - 鲸鱼娘 VRM 1.0 三维模型，可用于支持 VRM 的桌宠与直播工具。
 - [blue-fish-archive](https://github.com/EDMOK/blue-fish-archive) - 蓝色大肥鱼档案馆：290 张原图与 64 张立绘的开放档案，附静态站点与 CC BY-NC-SA 授权说明。
+- [ai-girl-stickers](https://github.com/lmy414/ai-girl-stickers) - 蓝色大肥鱼主题的 AI 娘表情包开放档案：1783 张原图按角色分布，附三语说明与投稿表单；图档体积大，建议按需单取。
+- [deepseek-whale-girl-assets](https://github.com/AATINF/deepseek-whale-girl-assets) - 鲸鱼娘二创素材扩展包：93 张 AI 生成细节扩展图，基于 TreapGoGo/deepseek-whale-girl 参考并附完整清单；素材授权未单独声明，使用前请核实。
 
 ## 人设与角色表达
 
 - [dafeiyu-persona](https://github.com/ERUIHNIYHBKBNF/dafeiyu-persona) - 大肥鱼人设 skill，包含角色表达规则、示范台词及背景参考，供兼容 skill 的工具使用。
 - [dsh-whale-persona](https://github.com/OMGLogic/dsh-whale-persona) - DSH 鲸鱼娘全局人设插件，提供人设开关、文本编辑与配置持久化。
 - [dsh-whale-musume-persona](https://github.com/Kaalia0912/dsh-whale-musume-persona) - DSH 全局鲸鱼娘（大肥鱼）人设插件。
+- [dsh-persona-dafeiyu](https://github.com/huaizhuanghub/dsh-persona-dafeiyu) - DSH 人设库插件：内置大肥鱼等人设，支持导入自定义与免重启切换。
 
 ## 记忆与成长
 
@@ -63,6 +66,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [tencent-connect/dsh-qqbot](https://github.com/tencent-connect/dsh-qqbot) - QQ 官方机器人接入 DSH 的插件，由腾讯 tencent-connect 维护。
 - [dsh-qq-link](https://github.com/Yuuyuko-uu/dsh-qq-link) - DSH 与 QQ 双向互通：AI 的发言自动发到 QQ，QQ 消息自动转进 DSH（OneBot 11 HTTP，NapCat / SnowLuma）。
 - [dsh-fish-soul](https://github.com/Britneycode/dsh-fish-soul) - 鱼 · 单角色人格与按人记忆：可纠正、有印象、能导入旧聊天记录，日程自走与主动开聊，直连 SnowLuma 收发 QQ（群聊默认白名单制）。
+- [whale_persona_plugin](https://github.com/a251231/whale_persona_plugin) - LangBot 路线的大肥鱼活人感全家桶：活人版预设、鱼的心情、鱼的记忆、主动搭话与实时粮仓。
 
 ## 微信与多平台接入
 
@@ -171,6 +175,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - 2026-11-06 质量审查：对 19 个低星与早期条目做只读代码核验，18 个通过；deepseek-whale-girl-icon 按资产类保留并标注授权待核实。
 - 2026-11-09 更新：新增 6 个条目（whale_girl、dafeiyu-phone、DSH-L2D、dsh-pond、dsh-fish-soul、KR 鲸鱼娘插件），全部经只读代码审查通过；另有 5 组查询因搜索限流未完成，下轮覆盖。
 - 2026-11-11 更新：补齐上轮限流的 5 组查询，新增 5 个条目（blue-fish-archive、MyDearFish、陪看、iPhone 伴侣、公众号写作），全部经只读代码审查通过。
+- 2026-11-12 更新：新增 4 个条目（人设库、表情包档案、素材扩展包、LangBot 全家桶），全部经只读代码审查通过；拒收 1 个高星通用角色扮演前端（无鲸鱼娘元素）。
 - 本清单围绕 DeepSeek 相关鲸鱼娘社区形象及可用于角色项目的工具整理，不规定唯一人设；收录的通用工具也服务于其他角色与场景。
 - 图片、模型、音色、提示词及代码可能各自采用不同许可。引用前请查看原作者与具体作品的授权；仓库的代码许可不能直接用于判断所有附带素材的许可。
 - 本仓库的许可适用于原创整理文字；所链接项目和作品遵循各自许可。本项目为社区资源整理，不代表 DeepSeek、腾讯、Bilibili 或被收录项目的官方立场。
