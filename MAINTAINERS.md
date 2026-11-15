@@ -39,6 +39,7 @@ GitHub 搜索关键词库（每轮按需组合，`sort=stars` 与 `sort=updated`
 - dsh-plugin-moments：代码完整但 2026-08 后无维护；长期无更新则考虑移除。
 - Dsh_douyin、ai-biaoqingbao：实现通过审查但无正式 LICENSE，关注授权补充情况。
 - wytyKen/dsh-whale-life：维护者本人规划中的项目，待其示意、基本成熟后再收录。
+- Work-Fisher/ai-girlfriend-v2：87★ 但源码仓库不自含运行链（整合包在 Git 外）、无许可证且一次性发布；若补充依赖声明与许可再评估（2026-11-15 审查结论）。
 
 ## 6. 既有约定
 
