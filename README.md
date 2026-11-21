@@ -54,6 +54,7 @@ A curated list of Whale Girl / DeepSeek-chan resources: character assets, person
 - [dsh-plugin-moments](https://github.com/yunyunyunyunsuan/dsh-plugin-moments) - AI 的朋友圈：让角色每天基于真实任务自动生成动态的 DSH 插件，仿微信 UI。
 - [dsh-fish](https://github.com/ssamurias/dsh-fish) - 养一只能自己刷 B 站、会成长的 agent：不通过面板配置，而是通过学习生成人格。
 - [dafeiyu-phone](https://github.com/Yihua666666/dafeiyu-phone) - 住在闲置安卓手机上的自主鲸鱼娘：DeepSeek + AutoX.js + ntfy，附启动、聊天与盯屏三个原生小应用。
+- [dsh-plugin-yushe](https://github.com/yuna78/dsh-plugin-yushe) - 鱼社：可视化引导一键孵化自己的大肥鱼，会聊天、会成长、会去 B 站学习。
 
 ## QQ 生活
 
@@ -67,6 +68,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-qq-link](https://github.com/Yuuyuko-uu/dsh-qq-link) - DSH 与 QQ 双向互通：AI 的发言自动发到 QQ，QQ 消息自动转进 DSH（OneBot 11 HTTP，NapCat / SnowLuma）。
 - [dsh-fish-soul](https://github.com/Britneycode/dsh-fish-soul) - 鱼 · 单角色人格与按人记忆：可纠正、有印象、能导入旧聊天记录，日程自走与主动开聊，直连 SnowLuma 收发 QQ（群聊默认白名单制）。
 - [whale_persona_plugin](https://github.com/a251231/whale_persona_plugin) - LangBot 路线的大肥鱼活人感全家桶：活人版预设、鱼的心情、鱼的记忆、主动搭话与实时粮仓。
+- [molly-qq-whale](https://github.com/3150481853/molly-qq-whale) - QQ 人格化框架：稳定人设、长期记忆、表情包与语音，附一个能看她此刻在干什么的控制台，人设由使用者自己写。
 
 ## 微信与多平台接入
 
@@ -110,6 +112,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [Dsh_douyin](https://github.com/newbeejmc/Dsh_douyin) - 大肥鱼抖音直播。
 - [dsh-douyin-whale](https://github.com/jackey670/dsh-douyin-whale) - 大肥鱼的抖音工具层：热点 / 搜索 / 抽帧、原生分享卡片与受控私信，附定时调度器，早期项目。
 - [dsh-game-stack](https://github.com/yuanstarstar/dsh-game-stack) - DSH 打游戏插件合集：游戏感知、观战实体、游戏学习、直播挂件与启动器，5 个 bundle 一键安装。
+- [dsh-stardew-blind-whale-farmer](https://github.com/Darianliu23/dsh-stardew-blind-whale-farmer) - 大肥鱼种白饭：让 DeepSeek 不用视觉模型玩星露谷物语，SMAPI mod + MCP + DSH 插件三件套。
 
 ## 桌宠与皮肤
 
@@ -150,6 +153,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-market](https://github.com/2BingLing/dsh-market) - 社区 DSH 插件检索与发现项目，提供网页版和 DSH 插件两种入口。
 - [Blue-Whale-Harness](https://github.com/leenkcool/Blue-Whale-Harness) - DSH 插件总目录：1958 个仓库 / 1819 个真插件（Skills · MCP · Tools · UI · Orchestration），中英文检索。
 - [MyDearFish](https://github.com/zxr121/MyDearFish) - 大肥鱼定制发行版：DSH 上游源码加六个配套插件（B 站子代理、心情、心智、QQ 桥、主动开口、TTS 桥），根 README 仍为上游原文。
+- [diva-dsh](https://github.com/ProjectViVy/diva-dsh) - 鲸鱼娘人格化集成发行版：DSH 启动器加二十余个自有子模块（记忆、人格等）；核心代码在各子模块仓库，需递归克隆。
 
 ## 生态观察
 
@@ -178,6 +182,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - 2026-11-11 更新：补齐上轮限流的 5 组查询，新增 5 个条目（blue-fish-archive、MyDearFish、陪看、iPhone 伴侣、公众号写作），全部经只读代码审查通过。
 - 2026-11-12 更新：新增 4 个条目（人设库、表情包档案、素材扩展包、LangBot 全家桶），全部经只读代码审查通过；拒收 1 个高星通用角色扮演前端（无鲸鱼娘元素）。
 - 2026-11-15 更新：新增 1 个条目（鱼搭子，审查通过）；1 个候选经审查为 BORDERLINE（源码不自含运行链、无许可证）不入收录并列入观察。
+- 2026-11-21 更新：新增 4 个条目（星露谷大肥鱼、diva 集成发行版、molly QQ 框架、鱼社），全部经只读代码审查通过。
 - 本清单围绕 DeepSeek 相关鲸鱼娘社区形象及可用于角色项目的工具整理，不规定唯一人设；收录的通用工具也服务于其他角色与场景。
 - 图片、模型、音色、提示词及代码可能各自采用不同许可。引用前请查看原作者与具体作品的授权；仓库的代码许可不能直接用于判断所有附带素材的许可。
 - 本仓库的许可适用于原创整理文字；所链接项目和作品遵循各自许可。本项目为社区资源整理，不代表 DeepSeek、腾讯、Bilibili 或被收录项目的官方立场。
