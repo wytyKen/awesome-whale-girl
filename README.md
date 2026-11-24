@@ -135,6 +135,8 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [opencode-deepseek-chan](https://github.com/daemon1s/opencode-deepseek-chan) - 跨生态参考：OpenCode Desktop 的鲸鱼娘动态视频背景与赛博玻璃拟态主题。
 - [deepseek-chan-plugin-for-dsh-with-KR](https://github.com/noire113-dev/deepseek-chan-plugin-for-dsh-with-KR) - 跨语言参考：韩语界面的 DSH 鲸鱼娘插件，带 Live2D 形象、桌面行走与语音。
 - [dsh-fish-buddy](https://github.com/Yuuyuko-uu/dsh-fish-buddy) - 鱼搭子：桌面小鲸鱼挂件 + DSH 插件，提供语音送话、陪看字幕、游戏弹幕与截图。
+- [kurocat](https://github.com/qianyiai/kurocat) - 开源桌面打字宠物与 OBS 悬浮层（Bongo Cat 平替，Tauri + Rust + MCP）：多款角色皮肤，含大肥鱼皮肤（附 MIT 许可）。
+- [dsh-her](https://github.com/AIcivilization/dsh-her) - 鲸鱼娘的身体引擎：住在壁纸里、浮在桌面上、住在网页和手机里，会说话、会听、会先开口、记得你。
 
 ## 语音与歌声
 
@@ -183,6 +185,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - 2026-11-12 更新：新增 4 个条目（人设库、表情包档案、素材扩展包、LangBot 全家桶），全部经只读代码审查通过；拒收 1 个高星通用角色扮演前端（无鲸鱼娘元素）。
 - 2026-11-15 更新：新增 1 个条目（鱼搭子，审查通过）；1 个候选经审查为 BORDERLINE（源码不自含运行链、无许可证）不入收录并列入观察。
 - 2026-11-21 更新：新增 4 个条目（星露谷大肥鱼、diva 集成发行版、molly QQ 框架、鱼社），全部经只读代码审查通过。
+- 2026-11-24 更新：新增 2 个条目（kurocat、dsh-her），全部经只读代码审查通过。
 - 本清单围绕 DeepSeek 相关鲸鱼娘社区形象及可用于角色项目的工具整理，不规定唯一人设；收录的通用工具也服务于其他角色与场景。
 - 图片、模型、音色、提示词及代码可能各自采用不同许可。引用前请查看原作者与具体作品的授权；仓库的代码许可不能直接用于判断所有附带素材的许可。
 - 本仓库的许可适用于原创整理文字；所链接项目和作品遵循各自许可。本项目为社区资源整理，不代表 DeepSeek、腾讯、Bilibili 或被收录项目的官方立场。
