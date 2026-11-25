@@ -39,6 +39,7 @@ A curated list of Whale Girl / DeepSeek-chan resources: character assets, person
 - [blue-fish-archive](https://github.com/EDMOK/blue-fish-archive) - 蓝色大肥鱼档案馆：290 张原图与 64 张立绘的开放档案，附静态站点与 CC BY-NC-SA 授权说明。
 - [ai-girl-stickers](https://github.com/lmy414/ai-girl-stickers) - 蓝色大肥鱼主题的 AI 娘表情包开放档案：1783 张原图按角色分布，附三语说明与投稿表单；图档体积大，建议按需单取。
 - [deepseek-whale-girl-assets](https://github.com/AATINF/deepseek-whale-girl-assets) - 鲸鱼娘二创素材扩展包：93 张 AI 生成细节扩展图，基于 TreapGoGo/deepseek-whale-girl 参考并附完整清单；素材授权未单独声明，使用前请核实。
+- [RuiC-2D](https://github.com/HRuiCcc/RuiC-2D) - 本地 2D 虚拟形象编辑器：从单张立绘完成分层绑定、口型眨眼、MediaPipe 实时驱动与 OBS 输出，内置鲸鱼娘示例角色（代码 MIT，社区角色素材采用 CC BY-NC-SA 4.0）。
 
 ## 人设与角色表达
 
@@ -46,6 +47,7 @@ A curated list of Whale Girl / DeepSeek-chan resources: character assets, person
 - [dsh-whale-persona](https://github.com/OMGLogic/dsh-whale-persona) - DSH 鲸鱼娘全局人设插件，提供人设开关、文本编辑与配置持久化。
 - [dsh-whale-musume-persona](https://github.com/Kaalia0912/dsh-whale-musume-persona) - DSH 全局鲸鱼娘（大肥鱼）人设插件。
 - [dsh-persona-dafeiyu](https://github.com/huaizhuanghub/dsh-persona-dafeiyu) - DSH 人设库插件：内置大肥鱼等人设，支持导入自定义与免重启切换。
+- [linsport/dsh-whale-persona](https://github.com/linsport/dsh-whale-persona) - 纯文本鲸鱼娘（大肥鱼）DSH 人设原文：含编码助手版与教师版两套提示词及人设写作 skill，零依赖。
 
 ## 记忆与成长
 
@@ -55,6 +57,9 @@ A curated list of Whale Girl / DeepSeek-chan resources: character assets, person
 - [dsh-fish](https://github.com/ssamurias/dsh-fish) - 养一只能自己刷 B 站、会成长的 agent：不通过面板配置，而是通过学习生成人格。
 - [dafeiyu-phone](https://github.com/Yihua666666/dafeiyu-phone) - 住在闲置安卓手机上的自主鲸鱼娘：DeepSeek + AutoX.js + ntfy，附启动、聊天与盯屏三个原生小应用。
 - [dsh-plugin-yushe](https://github.com/yuna78/dsh-plugin-yushe) - 鱼社：可视化引导一键孵化自己的大肥鱼，会聊天、会成长、会去 B 站学习。
+- [dsh-familiar-memory](https://github.com/Elio896/dsh-familiar-memory) - 面向养鱼场景的 DSH 本地记忆层（包名 dsh-neuron-memory）：SQLite 存储、情绪桶、指数衰减与跨会话认人交接，不联网。
+- [dsh-fishbowl-town](https://github.com/Ornn8/dsh-fishbowl-town) - 鱼缸小镇 DSH 插件：让本地角色住进鱼缸岛，由自身人设与模型驱动打牌、开店、串门与写见闻；需申请接入码并连接线上小镇服务。
+- [dsh-dot](https://github.com/Kevinwu901113/dsh-dot) - 让角色住在自带 Android 手机里的 DSH 插件包（包名 dsh-dot-life）：整合模拟器手机、QQ、日记记忆、幕间生活与可选微虚拟机电脑。
 
 ## QQ 生活
 
@@ -69,6 +74,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-fish-soul](https://github.com/Britneycode/dsh-fish-soul) - 鱼 · 单角色人格与按人记忆：可纠正、有印象、能导入旧聊天记录，日程自走与主动开聊，直连 SnowLuma 收发 QQ（群聊默认白名单制）。
 - [whale_persona_plugin](https://github.com/a251231/whale_persona_plugin) - LangBot 路线的大肥鱼活人感全家桶：活人版预设、鱼的心情、鱼的记忆、主动搭话与实时粮仓。
 - [molly-qq-whale](https://github.com/3150481853/molly-qq-whale) - QQ 人格化框架：稳定人设、长期记忆、表情包与语音，附一个能看她此刻在干什么的控制台，人设由使用者自己写。
+- [dafeiyu-config-pack](https://github.com/zexuanw958-svg/dafeiyu-config-pack) - AstrBot QQ 路线的大肥鱼一键配置包（Windows）：含原创人格、回复防串台、自动改签名与唱歌插件，导入时按需拉取上游依赖。
 
 ## 微信与多平台接入
 
@@ -137,6 +143,12 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-fish-buddy](https://github.com/Yuuyuko-uu/dsh-fish-buddy) - 鱼搭子：桌面小鲸鱼挂件 + DSH 插件，提供语音送话、陪看字幕、游戏弹幕与截图。
 - [kurocat](https://github.com/qianyiai/kurocat) - 开源桌面打字宠物与 OBS 悬浮层（Bongo Cat 平替，Tauri + Rust + MCP）：多款角色皮肤，含大肥鱼皮肤（附 MIT 许可）。
 - [dsh-her](https://github.com/AIcivilization/dsh-her) - 鲸鱼娘的身体引擎：住在壁纸里、浮在桌面上、住在网页和手机里，会说话、会听、会先开口、记得你。
+- [dsh-dafeiyu](https://github.com/QCYTSN/dsh-dafeiyu) - DSH 原生桌面大肥鱼伴侣：透明置顶窗口实时联动 Agent 状态与审批提示，随 DSH 启停（代码与当前运行素材均采用 MIT 许可）。
+- [BlueFatFish](https://github.com/Jestions-dev/BlueFatFish) - 蓝色大肥鱼浏览器新标签页扩展：纯本地离线玩具箱（物理弹跳与小黄鸭捏鱼音效）、自定义壁纸与本机桥接协议。
+- [baifanyu](https://github.com/LIN428924379/baifanyu) - 白饭鱼 Android 离线悬浮桌宠：可拖拽、趴边露头、多套皮肤表情与小黄鸭音效，不联网不上传；代码 MIT，美术素材仅限个人非商用。
+- [dsh-ui-whale](https://github.com/lhh010/dsh-ui-whale) - DSH Web UI 会话标题栏常驻像素鲸鱼插件：全手绘动画，随思考、运行、完成与待机状态实时互动，零核心改动。
+- [dsh-whale-galgame](https://github.com/JAdpp/dsh-whale-galgame) - 面向 DSH 的跨会话事件感知 Galgame 引擎与界面：平时为 Q 版桌宠，点开进入视觉小说界面，支持大肥鱼等多位 AI 角色（代码 MIT，美术素材另行标注许可）。
+- [dsh-whale-girl-pet](https://github.com/yanzwzz/dsh-whale-girl-pet) - DSH Web 蓝发鲸鱼女仆桌宠（基于 dsh-pet 扩展）：新增任务完成统计、三桶 Token 分时段花费看板、睡眠系统与时间感知。
 
 ## 语音与歌声
 
@@ -146,6 +158,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [dsh-voice-mode](https://github.com/qishuilalala/dsh-voice-mode) - 全双工语音插件：流式识别、按句合成、实时字幕与开口即打断。
 - [dsh-dania-voice](https://github.com/xcw520/dsh-dania-voice) - 本地 GPT-SoVITS TTS 朗读回复，附带可拖拽吉祥物与一键安装。
 - [dsh-cover-pipeline](https://github.com/InariNGT-Ofiicial/dsh-cover-pipeline) - 本地 AI 翻唱插件：九个工具串起人声分离、换声、移调、混音与验收。
+- [dsh-plugin-xiaomi-mimo-tts](https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts) - DSH 多引擎音色工坊插件（包名 dsh-xiaomi-tts）：支持小米 MiMo、豆包 Seed、BreezeBlue 与浏览器语音，带流式朗读、桌宠联动及 QQ Bot 语音。
 
 ## 框架与工具
 
@@ -156,10 +169,12 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [Blue-Whale-Harness](https://github.com/leenkcool/Blue-Whale-Harness) - DSH 插件总目录：1958 个仓库 / 1819 个真插件（Skills · MCP · Tools · UI · Orchestration），中英文检索。
 - [MyDearFish](https://github.com/zxr121/MyDearFish) - 大肥鱼定制发行版：DSH 上游源码加六个配套插件（B 站子代理、心情、心智、QQ 桥、主动开口、TTS 桥），根 README 仍为上游原文。
 - [diva-dsh](https://github.com/ProjectViVy/diva-dsh) - 鲸鱼娘人格化集成发行版：DSH 启动器加二十余个自有子模块（记忆、人格等）；核心代码在各子模块仓库，需递归克隆。
+- [WhaleIsle](https://github.com/ChisaAlter/WhaleIsle) - 鲸屿：基于 DeepSeek Harness 的开源社区桌面客户端，集成开发工作台、Whale UI、可选鲸鱼娘助理与 Live2D 桌宠、主题壁纸及手机远程连接。
 
 ## 生态观察
 
 - [dafeiyu-cleaner](https://github.com/liyupi/dafeiyu-cleaner) - 在浏览器本地识别与隐藏 B 站 AI 机器人评论的扩展，可用于观察用户对自动化账号互动的体验需求。
+- [bilibili-dafeiyu-blocker](https://github.com/ybyz2/bilibili-dafeiyu-blocker) - 在 B 站评论区识别与屏蔽「大肥鱼」类 AI 人格账号的油猴脚本（支持简繁匹配及批量删除 / 拉黑），可用于观察社区对自动化互动的反馈。
 
 ## 相关清单
 
@@ -167,6 +182,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - [Awesome AI VTubers](https://github.com/proj-airi/awesome-ai-vtubers) - AI 虚拟主播及相关开源项目清单。
 - [Awesome DeepSeek Harness](https://github.com/0xsline/awesome-deepseek-harness) - DSH 插件、工具与基础设施的综合生态清单。
 - [Awesome DSH Plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - DeepSeek Harness 插件精选列表。
+- [dsh-meme-hub](https://github.com/the-beating-light-of-the-nail/dsh-meme-hub) - DSH 社区整活与梗向插件精选导览（贪玩蓝鲸、QQ2006、鲸鱼娘与小游戏等），附中英文说明与展示站点。
 
 ## Contributing
 
@@ -186,6 +202,7 @@ QQ 接入包含机器人平台与 OneBot 网关等不同路线，具体账号形
 - 2026-11-15 更新：新增 1 个条目（鱼搭子，审查通过）；1 个候选经审查为 BORDERLINE（源码不自含运行链、无许可证）不入收录并列入观察。
 - 2026-11-21 更新：新增 4 个条目（星露谷大肥鱼、diva 集成发行版、molly QQ 框架、鱼社），全部经只读代码审查通过。
 - 2026-11-24 更新：新增 2 个条目（kurocat、dsh-her），全部经只读代码审查通过。
+- 2026-11-25 更新：全量复扫关键词库与上游清单，新增 16 个条目（RuiC-2D、linsport/dsh-whale-persona、dsh-familiar-memory、dsh-fishbowl-town、dsh-dot、dafeiyu-config-pack、dsh-dafeiyu、BlueFatFish、baifanyu、dsh-ui-whale、dsh-whale-galgame、dsh-whale-girl-pet、dsh-plugin-xiaomi-mimo-tts、WhaleIsle、bilibili-dafeiyu-blocker、dsh-meme-hub），全部经只读代码审查通过；3 个候选（DSQQ、dafeiyu-live、kinganyi/fish）因缺少正式许可或授权声明冲突判为 BORDERLINE 并列入观察名单；同步更新 Issue 模板分类。
 - 本清单围绕 DeepSeek 相关鲸鱼娘社区形象及可用于角色项目的工具整理，不规定唯一人设；收录的通用工具也服务于其他角色与场景。
 - 图片、模型、音色、提示词及代码可能各自采用不同许可。引用前请查看原作者与具体作品的授权；仓库的代码许可不能直接用于判断所有附带素材的许可。
 - 本仓库的许可适用于原创整理文字；所链接项目和作品遵循各自许可。本项目为社区资源整理，不代表 DeepSeek、腾讯、Bilibili 或被收录项目的官方立场。

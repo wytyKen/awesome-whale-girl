@@ -40,6 +40,9 @@ GitHub 搜索关键词库（每轮按需组合，`sort=stars` 与 `sort=updated`
 - Dsh_douyin、ai-biaoqingbao：实现通过审查但无正式 LICENSE，关注授权补充情况。
 - wytyKen/dsh-whale-life：维护者本人规划中的项目，待其示意、基本成熟后再收录。
 - Work-Fisher/ai-girlfriend-v2：87★ 但源码仓库不自含运行链（整合包在 Git 外）、无许可证且一次性发布；若补充依赖声明与许可再评估（2026-11-15 审查结论）。
+- Jack-Cherish/DSQQ：Windows 大肥鱼 QQ 一键安装包（AstrBot + NapCat），Python 安装器与测试代码完整，但仓库无 LICENSE 且分发依赖外部 790 MB SFX 包；待补充许可声明后再评估（2026-11-25 审查结论）。
+- XCool-603/dafeiyu-live：大肥鱼 3D 骨骼跳舞与抖音弹幕直播系统，服务端与前端代码完整，但无 LICENSE 且仓内直接提交疑似第三方版权音乐与未标明出处的模型/立绘；待清理授权后再评估（2026-11-25 审查结论）。
+- kinganyi/fish：大肥鱼生命系统（长期记忆与多会话协作层），实现体量完整，但根 LICENSE（Apache-2.0）与 README 徽章（proprietary）冲突且偏通用编码协作；待授权与定位明确后再评估（2026-11-25 审查结论）。
 
 ## 6. 既有约定
 
